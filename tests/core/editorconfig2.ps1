@@ -118,7 +118,7 @@ if($env:EDITORCONFIG_EXTRA) {
 
 # }}}1
 # Build Vim command line ============================================= {{{1
-$cmd += 'call editorconfig_core#currbuf_cli({'
+$cmd += 'call editorconfig_core#Currbuf_cli({'
 
 # Names
 $cmd += "'output':" + (vesc($fn)) + ", "

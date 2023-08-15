@@ -1,4 +1,4 @@
-Fork of https://github.com/editorconfig/editorconfig-vim
+Fork of https://github.com/editorconfig/editorconfig-vim re-written in Vim9 script.
 
 To check the code compiles in a given script, write `:defcompile` at the end, and source it.  For example:
 
